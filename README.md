@@ -9,4 +9,4 @@ https://alacritty.org/index.html
 https://github.com/tmux/tmux/wiki  
 http://www.lazyvim.org/  
 https://github.com/jesseduffield/lazygit  
-
+https://www.nordtheme.com/ports
